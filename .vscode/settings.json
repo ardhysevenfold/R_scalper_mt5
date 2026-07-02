@@ -1,5 +1,5 @@
 {
-  "files.associationss": {
+  "files.associations": {
     "*.mq5": "mql5",
     "*.mqh": "mqlh",
     "*.mq4": "mql4"
