@@ -1,14 +1,13 @@
 // +------------------------------------------------------------------+
-// | Nyao Scalper v43.0                                               |
+// | Racknarock Scalper v43.0                                               |
 // | Indicator-Based Signal Strength EA with Comprehensive Features   |
-// | © Copyright Nyao Scalper by Elriz Wiraswara                      |
+// | © Copyright Racknarock Scalper                 |
 // +------------------------------------------------------------------+
-#property copyright "© Copyright Nyao Scalper by Elriz Wiraswara"
+#property copyright "© Copyright Racknarock Scalper by Elriz Wiraswara"
 #property version "43.0"
 #property description "Auto Trading EA Robot with Comprehensive Features"
 #property description ""
 #property description "This is an open-source project for educational and experimental purposes only"
-#property description "Source: https://github.com/elrizwiraswara/nyao_scalper_mt5 [BSD-3-Clause]"
 #property description ""
 #property description "No guarantee of profitability. Use at your own risk. Past performance ≠ future results"
 #property description "Built with significant effort, please use and share respectfully"
@@ -53,8 +52,8 @@ enum ENUM_LIMIT_ANCHOR
 };
 
 input group "+-----------------------------------------+"
-input group " Nyao Scalper v43.0"
-input group " © Copyright Nyao Scalper by Elriz Wiraswara"
+input group " Racknarock Scalper v43.0"
+input group " © Copyright Racknarock Scalper"
 input group "+-----------------------------------------+"
 
 // +------------------------------------------------------------------+
